@@ -13,8 +13,6 @@ import java.util.HashMap;
 @RestController
 public class SpringBootController {
 
-
-
     @GetMapping("hello")
     public Object hello(){
 
