@@ -1,5 +1,8 @@
 package com.cuijie.demo;
 
+/**
+ * 分支
+ */
 public class Demo {
     private  Integer id;
     private String name;
